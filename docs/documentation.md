@@ -75,7 +75,7 @@ The executable of the game gets build automatically with every push to the GitHu
 
 The Testing is done with the Unity Test Framework. This implements a Testrunner in the Unity Editor through which the Unit Tests can be run. Sadly i could not get them to run with a GitHub action. The files are located in the Assets/Editor directory.
 
-![Test Runner Screenshot](testrunner.png)
+![Test Runner Screenshot](Testrunner.png)
 
 ## Diagram
 ![Test Runner Screenshot](diagram.png)
