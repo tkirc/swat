@@ -1,11 +1,12 @@
-# Unity Game Project Documentation
+# Project Documentation
 ## Table of Contents
-1. Quality Attributes
-2. Logging
-3. Creation of Objects
-4. Persistence
-5. Error Handling
-6. Continous Integration
+1. [Quality Attributes](#quality-attributes)
+2. [Logging](#logging)
+3. [Creation of Objects](#creation-of-objects)
+4. [Persistence](#persistence)
+5. [Error Handling](#error-handling)
+6. [Continous Integration](#continous-integration)
+7. [Testing](#testing)
 
 
 ## Quality Attributes
@@ -69,7 +70,7 @@ The game includes mechanisms to gracefully handle errors, such as retrying faile
 
 The executable of the game gets build automatically with every push to the GitHub Repository using GitHub Actions.
 
-## Unit Testing
+## Testing
 
 The Testing is done with the Unity Test Framework. This implements a Testrunner in the Unity Editor through which the Unit Tests can be run. Sadly i could not get them to run with a GitHub action.
 

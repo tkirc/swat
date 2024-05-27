@@ -13,3 +13,7 @@ TODO
 ## Installation
 
 The Github Action builds a executable that can be run without any other dependencies.
+
+## Documentation
+
+[Documentation](docs/documentation.md)
