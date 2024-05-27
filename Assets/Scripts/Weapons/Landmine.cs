@@ -13,7 +13,7 @@ public class Landmine : WeaponNetwork
         rb.transform.position += vector;
     }
 
-    private void OnCollisionEnter(Collision collision)
+    public void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.layer == LayerMask.NameToLayer("Enemy")
             || collision.gameObject.layer == LayerMask.NameToLayer("Player"))

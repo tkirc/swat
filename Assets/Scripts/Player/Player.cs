@@ -55,7 +55,7 @@ public class Player : MonoBehaviour
     }
 
 
-    void OnEnable()
+    public void OnEnable()
     {
 
         controls.BattleControls.Move.performed += onMovePerformed;

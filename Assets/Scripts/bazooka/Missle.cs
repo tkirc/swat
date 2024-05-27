@@ -12,7 +12,7 @@ public class Missle : Projectile
     [SerializeField] private GameObject blastRadiusPrefab;
     [SerializeField] private float force;
 
-    void Start()
+    public void Start()
     {
 
         if (!IsHost) return;
