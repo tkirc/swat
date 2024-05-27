@@ -1,14 +1,14 @@
 # Chicken Out
 
-A Unity Multiplayer Game. That can be played by up to 4 players at the same time.
+Chicken Out is a Unity Multiplayer arena fighting game.
 
 ## Motivation
 
 This Project was improved by the principles learned in the SWAT module.
 
-## Class Diagram
+## Diagram
 
-TODO
+![Test Runner Screenshot](docs/diagram.png)
 
 ## Installation
 

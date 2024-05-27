@@ -7,6 +7,7 @@
 5. [Error Handling](#error-handling)
 6. [Continous Integration](#continous-integration)
 7. [Testing](#testing)
+8. [Sequence Diagram](#diagram)
 
 
 ## Quality Attributes
@@ -74,4 +75,7 @@ The executable of the game gets build automatically with every push to the GitHu
 
 The Testing is done with the Unity Test Framework. This implements a Testrunner in the Unity Editor through which the Unit Tests can be run. Sadly i could not get them to run with a GitHub action.
 
-![Test Runner Screenshot](Testrunner.png)
+![Test Runner Screenshot](testrunner.png)
+
+## Diagram
+![Test Runner Screenshot](diagram.png)
