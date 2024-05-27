@@ -1,6 +1,6 @@
 # Chicken Out
 
-Chicken Out is a Unity Multiplayer arena fighting game.
+Chicken Out is a Unity Multiplayer arena fighting game. It can be played by 4 players inside a lobby. To Start a lobby one Player needs to be a Host and the others can connect as Clients. This can be done through the Starting Menu of the game. The Player do not have to be in the same network for this to work.
 
 ## Motivation
 
